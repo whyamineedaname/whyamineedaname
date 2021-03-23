@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whyamineedaname
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyamineedaname)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=whyamineedaname&show_icons=true">
 
 <!---
 whyamineedaname/whyamineedaname is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
